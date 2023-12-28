@@ -1,0 +1,34 @@
+[{
+  "name": "Hospital Management System using MEAN Stack",
+    "desc": "Developed a comprehensive Hospital Management System utilizing the MEAN Stack.",
+    "image": "Picture1",
+    "category": "Code",
+    "links": {
+      "code": "https://github.com/AmanV221201/Internship-TwiLearn-LinkedIn-"
+  }
+},
+
+  {
+    "name": "Student Result Management System using FULL Stack",
+    "desc": "Designed and implemented a robust Student Result Management System using Full Stack Development.",
+    "image": "a",
+    "category": "FRAT",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/B.Tech-6-SEM-Project"
+    }
+
+  },
+  {
+    "name": "Disease Prediction using Machine Learning",
+    "desc": "Engineered a Disease Prediction System utilizing Machine Learning, showcasing expertise in predictive analytics.",
+    "image": "3",
+    "category": "licence",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/B.Tech-4-SEM-Project"
+    }
+  }
+
+  
+]
