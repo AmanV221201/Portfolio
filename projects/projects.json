@@ -1,6 +1,6 @@
 [{
   "name": "House Price Prediction System",
-    "desc": "A Machine Learning project demonstrating the working of Supervised ML algorithm by predicting the price of houses according to required and desired inputs.",
+    "desc": "A Machine Learning project demonstrating the working of Supervised ML algorithm.",
     "image": "Picture1",
     "category": "Code",
     "links": {
