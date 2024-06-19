@@ -1,10 +1,11 @@
 [{
-  "name": "Hospital Management System using MEAN Stack",
-    "desc": "Developed a comprehensive Hospital Management System utilizing the MEAN Stack.",
+  "name": "House Price Prediction System",
+    "desc": "A Machine Learning project demonstrating the working of Supervised ML algorithm by predicting the price of houses according to required and desired inputs.",
     "image": "Picture1",
     "category": "Code",
     "links": {
-      "code": "https://github.com/AmanV221201/Internship-TwiLearn-LinkedIn-"
+      "code": "https://github.com/AmanV221201/House-Pred.-5-SEM-",
+      "view": "https://amanv221201-house-pred--5-sem--main-h2t3hi.streamlit.app/"
   }
 },
 
@@ -15,7 +16,8 @@
     "category": "FRAT",
     "links": {
       
-      "code": "https://github.com/AmanV221201/B.Tech-6-SEM-Project"
+      "code": "https://github.com/AmanV221201/Online-Result-6-SEM-",
+      "view": "https://amanv221201.github.io/Online-Result-6-SEM-/"
     }
 
   },
@@ -26,7 +28,8 @@
     "category": "licence",
     "links": {
       
-      "code": "https://github.com/AmanV221201/B.Tech-4-SEM-Project"
+      "code": "https://github.com/AmanV221201/Disease_Pred.-4_SEM-",
+      "view" : "https://amanv221201-disease-pred--4-sem--disease-07jgsh.streamlit.app/"
     }
   }
 
