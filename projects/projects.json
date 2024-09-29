@@ -1,0 +1,63 @@
+[{
+  "name": "Sign Language Detection and Translation",
+    "desc": "Developed a machine learning model using Random forest classifier and Mediapipe to accurately identify hand gestures.",
+    "image": "SignLanguage",
+    "category": "Code",
+    "links": {
+      "code": "https://github.com/AmanV221201/Sign-Language-Detection-Translation.git"
+  }
+},
+
+  {
+    "name": "Sabzibazaar E-commerce Website",
+    "desc": "Collaborated in a team of 5 during a summer internship at Graphic Era University to develop a fully functional website.",
+    "image": "Sabzibazaar",
+    "category": "FRAT",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/Ecommerce-Website.git"
+    }
+
+  },
+  {
+    "name": "Online Result Management System",
+    "desc": "Developed a robust student result management system using PHP, HTML, and CSS.",
+    "image": "OnlineResult",
+    "category": "licence",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/Online-Result-Management-System.git"
+    }
+  },
+   {
+    "name": "Hospital Management System",
+    "desc": "Independently developed a web-based Hospital Management System using Angular Material, Nodejs, CSS and Firebase.",
+    "image": "HospitalManagement",
+    "category": "c",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/Hospital-Management-System.git"
+    }
+  },
+   {
+    "name": "House Price Prediction",
+    "desc": "Implemented a house price prediction system using the Random Forest algorithm.",
+    "image": "HousePred",
+    "category": "F",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/House-Price-Pred..git"
+    }
+  },
+   {
+    "name": "Disease Prediction System",
+    "desc": "Developed a disease prediction system using the Naive Bayes classifier.",
+    "image": "DiseasePred",
+    "category": "l",
+    "links": {
+      
+      "code": "https://github.com/AmanV221201/Disease-Prediction-System.git"
+    }
+  }
+  
+]
